@@ -1,5 +1,5 @@
 {
-  "name": "confusion",
+  "name": "confusionbootstrap",
   "version": "1.0.0",
   "description": "This is a website for Ristorante Con Fusion",
   "main": "index.html",
@@ -10,7 +10,10 @@
   },
   "author": "",
   "license": "ISC",
-    "devDependencies": {
+  "devDependencies": {
     "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.1"
   }
 }
